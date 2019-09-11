@@ -1,7 +1,7 @@
-#####################################################
-# Copyright (C) 2019 NXP Semiconductors
-# Claudiu Lataretu <claudiuion.lataretu@nxp.com>
-#####################################################
+/////////////////////////////////////////////////////
+// Copyright (C) 2019 NXP Semiconductors
+// Claudiu Lataretu <claudiuion.lataretu@nxp.com>
+/////////////////////////////////////////////////////
 
 #include <QDir>
 #include <QGuiApplication>
